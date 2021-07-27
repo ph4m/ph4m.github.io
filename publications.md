@@ -4,7 +4,7 @@ title: Publications
 ---
 
 [Rover relocalization for mars sample return by virtual template synthesis and matching](/2021-03-18-ral)  
-**T.-H. Pham**, W. Seto, S. Daftry, B. Ridge, J. Hansen, T. Thrush, M. Van der Merwe, G. Maggiolino, A. Brinkman, J. Mayo, Y. Cheng, C. Padgett, E. Kulczycki, R. Detry, Robotics and Automation Letters (RAL), 2021.
+**T.-H. Pham**, W. Seto, S. Daftry, B. Ridge, J. Hansen, T. Thrush, M. Van der Merwe, G. Maggiolino, A. Brinkman, J. Mayo, Y. Cheng, C. Padgett, E. Kulczycki, R. Detry, IEEE Robotics and Automation Letters (RAL), 2021.
 [[pdf](https://arxiv.org/abs/2103.03395)],
 [[dataset](https://data.caltech.edu/records/1898)]
 
