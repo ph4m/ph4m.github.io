@@ -3,9 +3,15 @@ layout: page
 title: Publications
 ---
 
+[Reinforcement learning testbed for power-consumption optimization](/2018-10-27-asiasim)
+T. Moriyama, G. De Magistris, M. Tatsubori, T.-H. Pham, A. Munawar, R. Tachibana, Asian Simulation Conference (AsiaSim), Singapore, 2018.
+[[pdf](https://arxiv.org/abs/1808.10427)],
+[[code](https://github.com/IBM/rl-testbed-for-energyplus)].
+
 [Constrained exploration and recovery from experience shaping](/2018-09-21-ceres)
 T.-H. Pham, G. De Magistris, D. J. Agravante, S. Chaudhury, A. Munawar, R. Tachibana, arXiv preprint arXiv:1809.08925, September, 2018. **I wrote this before leaving IBM. It has not been publicized much but I consider this to be some of my best work :')**.
-[[pdf](https://arxiv.org/abs/1809.08925)].
+[[pdf](https://arxiv.org/abs/1809.08925)],
+[[code](https://github.com/IBM/constrained-rl)].
 
 [Experimental force-torque dataset for robot learning of multi-shape insertion](/2018-09-04-rsj)
 G. De Magistris, A. Munawar, T.-H. Pham, T. Inoue, P. Vinayavekhin, R. Tachibana, 36th Annual Conference of the Robotics Society of Japan (RSJ), Kasugai, Japan, September, 2018.
