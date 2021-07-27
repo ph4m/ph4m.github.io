@@ -8,7 +8,7 @@ subtitle: I'm Hoa
 
 I'm a robotics researcher at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/)
 in Pasadena, CA, currently working on machine vision for robot localization and grasping.
-Prior to joining JPL, I spent two years as a research scientist at [IBM Research AI](http://www.research.ibm.com/labs/tokyo/),
+Prior to joining JPL in 2018, I spent two years as a research scientist at [IBM Research AI](http://www.research.ibm.com/labs/tokyo/),
 Tokyo, where I worked on deep reinforcement learning for robot vision and manipulation.
 
 ### Background

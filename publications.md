@@ -3,7 +3,11 @@ layout: page
 title: Publications
 ---
 
-[Experimental force-torque dataset for robot learning of multi-shape insertion](/2018-09-04-rsj)  
+[Constrained exploration and recovery from experience shaping](/2018-09-21-ceres)
+T.-H. Pham, G. De Magistris, D. J. Agravante, S. Chaudhury, A. Munawar, R. Tachibana, arXiv preprint arXiv:1809.08925, September, 2018. **I wrote this before leaving IBM. It has not been publicized much but I consider this to be some of my best work :')**.
+[[pdf](https://arxiv.org/abs/1809.08925)].
+
+[Experimental force-torque dataset for robot learning of multi-shape insertion](/2018-09-04-rsj)
 G. De Magistris, A. Munawar, T.-H. Pham, T. Inoue, P. Vinayavekhin, R. Tachibana, 36th Annual Conference of the Robotics Society of Japan (RSJ), Kasugai, Japan, September, 2018.
 [[pdf](https://arxiv.org/abs/1807.06749)],
 [[video](https://www.youtube.com/watch?v=6rLc9fAtzAQ)].
@@ -24,13 +28,13 @@ T.-H. Pham, S. Caron, A. Kheddar, IEEE Transactions on Industrial Informatics (T
 [[dataset](https://github.com/jrl-umi3218/WholeBodyKinodynamics)]
 
 [Hand-object contact force estimation from markerless visual tracking](/2017-10-26-pami)  
-T.-H. Pham, N. Kyriazis, A. A. Argyros, A. Kheddar, IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI).
+T.-H. Pham, N. Kyriazis, A. A. Argyros, A. Kheddar, IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2017.
 [[pdf](http://ieeexplore.ieee.org/abstract/document/8085141/)],
 [[video](https://www.youtube.com/watch?v=NhNV3tCcbd0)],
 [[dataset](https://github.com/jrl-umi3218/ManipulationKinodynamics)].
 
 [Whole-body contact force sensing from motion capture](/2016-12-13-sii)  
-T.-H. Pham, A. Bufort, S. Caron, A. Kheddar, "Whole-Body Contact Force Sensing From Motion Capture", in IEEE/SICE International Symposium on System Integration (SII), Sapporo, Japan, December, 2016. **Best Paper Award**.
+T.-H. Pham, A. Bufort, S. Caron, A. Kheddar, IEEE/SICE International Symposium on System Integration (SII), Sapporo, Japan, December, 2016. **Best Paper Award**.
 [[pdf](https://hal.archives-ouvertes.fr/hal-01372238/)].
 
 [Capturing and reproducing hand-object interactions through vision-based force sensing](/2015-12-11-oui)  
