@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+[Machine vision based sample-tube localization for Mars Sample Return](/2021-03-06-aeroconf)
+S. Daftry, B. Ridge, W. Seto, T.-H. Pham, P. Ilhardt, G. Maggiolino, M. Van der Merwe, A. Brinkman, J. Mayo, E. Kulczyski, R. Detry, IEEE Aerospace Conference, Big Sky, MT, USA, 2021.
+[[pdf](https://arxiv.org/abs/2103.09942)].
+
 [Rover localization for tube pickup: dataset, methods and validation for mars sample return planning](/2020-03-07-aeroconf)
 T.-H. Pham, W. Seto, S. Daftry, A. Brinkman, J. Mayo, Y. Cheng, C. Padgett, E. Kulczycki, R. Detry, IEEE Aerospace Conference, Big Sky, MT, USA, 2020.
 [[pdf](https://ieeexplore.ieee.org/abstract/document/9172300/)].
