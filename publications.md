@@ -3,6 +3,11 @@ layout: page
 title: Publications
 ---
 
+[Rover relocalization for mars sample return by virtual template synthesis and matching](/2021-03-18-ral)  
+**T.-H. Pham**, W. Seto, S. Daftry, B. Ridge, J. Hansen, T. Thrush, M. Van der Merwe, G. Maggiolino, A. Brinkman, J. Mayo, Y. Cheng, C. Padgett, E. Kulczycki, R. Detry, Robotics and Automation Letters (RAL), 2021.
+[[pdf](https://arxiv.org/abs/2103.03395)],
+[[dataset](https://data.caltech.edu/records/1898)]
+
 [Machine vision based sample-tube localization for Mars Sample Return](/2021-03-06-aeroconf)
 S. Daftry, B. Ridge, W. Seto, **T.-H. Pham**, P. Ilhardt, G. Maggiolino, M. Van der Merwe, A. Brinkman, J. Mayo, E. Kulczyski, R. Detry, IEEE Aerospace Conference, Big Sky, MT, USA, 2021.
 [[pdf](https://arxiv.org/abs/2103.09942)].
@@ -38,7 +43,7 @@ A. Munawar, G. De Magistris, **T.-H. Pham**, D. Kimura, M. Tatsubori, T. Moriyam
 
 [Multi-contact interaction force sensing from whole-body motion capture](/2017-10-23-tii)  
 **T.-H. Pham**, S. Caron, A. Kheddar, IEEE Transactions on Industrial Informatics (TII), 2017.
-[[pdf](http://ieeexplore.ieee.org/document/8078194/http://ieeexplore.ieee.org/abstract/document/8085141/)],
+[[pdf](https://ieeexplore.ieee.org/document/8078194)],
 [[dataset](https://github.com/jrl-umi3218/WholeBodyKinodynamics)]
 
 [Hand-object contact force estimation from markerless visual tracking](/2017-10-26-pami)  
