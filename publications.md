@@ -3,6 +3,11 @@ layout: page
 title: Publications
 ---
 
+[Robust visual localization in compute-constrained environments by salient edge rendering and weighted hamming similarity](/2025-09-25-ral)  
+**T.-H. Pham**, P. Bailey, D. Posada, J. Enriquez, M. Dolci, P. Twu, IEEE Robotics and Automation Letters (RAL), 2025.
+[[pdf](https://arxiv.org/abs/2509.25520)],
+[[dataset](https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=doi:10.48577/jpl.9IZDE2)]
+
 [Rover relocalization for Mars Sample Return by virtual template synthesis and matching](/2021-03-18-ral)  
 **T.-H. Pham**, W. Seto, S. Daftry, B. Ridge, J. Hansen, T. Thrush, M. Van der Merwe, G. Maggiolino, A. Brinkman, J. Mayo, Y. Cheng, C. Padgett, E. Kulczycki, R. Detry, IEEE Robotics and Automation Letters (RAL), 2021.
 [[pdf](https://arxiv.org/abs/2103.03395)],
